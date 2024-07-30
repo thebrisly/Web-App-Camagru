@@ -24,4 +24,8 @@ The controller connects the model and view. The controller converts inputs from 
 
 The controller receives input from view, uses logic to translate the input to a demand for the model, the model grabs the data, the controller passes data from the model back to the view for the user to see in a nice display.
 
-Source : https://www.educative.io/blog/mvc-tutorial
+<h2> Sources </h2>
+
+- MVC : https://www.educative.io/blog/mvc-tutorial
+
+- Example of a simple web app in PHP : https://code-boxx.com/simple-php-mvc-example/?utm_content=cmp-true
