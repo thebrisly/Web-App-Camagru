@@ -1,6 +1,11 @@
 # Web-App-Camagru
 
-<h1> MVC Model </h1>
+
+This web project involves creating a small application for basic photo and video editing using a webcam and predefined images with alpha channels. Users can select an overlay image, capture a photo with their webcam, and view the combined result. All captured images will be public, likable, and commentable.
+
+Concepts that I learned :
+
+<h2> MVC Model </h2>
 
 <img width="695" alt="Capture d’écran 2024-07-30 à 21 07 10" src="https://github.com/user-attachments/assets/af0151cb-1b22-412e-9c1b-dff46fbb7ee9">
 
